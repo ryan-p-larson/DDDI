@@ -1,3 +1,17 @@
+# Download Map Files Makefile
+#
+# Requires MAKE, TopoJSON, ogr2ogr, and curl to run
+# Output should be a folder 'maps' with 4 TopoJSON files
+# Mapzen now requires an API key, so the inital download call in `iowa-city-maps.zip`
+# will have to be modified with your API key to reproduce.
+# But for ease we will just include the final maps.
+
+
+maps:
+	mkdir -p maps
+	mv *.json maps
+	touch maps
+
 ic-map.json: ic-buildings-geo.json ic-waterareas-geo.json ic-roads-geo.json
 	rm iowa*.*
 	topojson \

@@ -1,6 +1,255 @@
 ,Bowl Name,Date,Home Score,Home Team,Line,Visitor,Visitor Score
+98,,09/16/1978,20.0,Iowa,14.0,Northwestern,3.0
+151,,09/23/1978,0.0,Iowa,-2.5,Iowa State,31.0
+333,,10/07/1978,9.0,Iowa, ,Utah,13.0
+529,,10/28/1978,7.0,Iowa,-10.5,Purdue,34.0
+579,,11/04/1978,0.0,Iowa,-27.0,Michigan,34.0
+746,,11/18/1978,38.0,Iowa,-4.0,Wisconsin,24.0
+827,,09/08/1979,26.0,Iowa,-2.5,Indiana,30.0
+973,,09/22/1979,21.0,Iowa,-18.0,Nebraska,24.0
+1026,,09/29/1979,30.0,Iowa,-5.5,Iowa State,14.0
+1256,,10/20/1979,7.0,Iowa,2.5,Minnesota,24.0
+1408,,11/03/1979,14.0,Iowa,-6.0,Purdue,20.0
+1532,,11/17/1979,33.0,Iowa,-1.0,Michigan State,23.0
+1810,,09/27/1980,7.0,Iowa,4.0,Iowa State,10.0
+1865,,10/04/1980,3.0,Iowa,6.0,Arizona,5.0
+1947,,10/11/1980,14.0,Iowa,8.0,Illinois,20.0
+2039,,10/18/1980,25.0,Iowa,27.0,Northwestern,3.0
+2196,,11/01/1980,22.0,Iowa,4.0,Wisconsin,13.0
+2305,,11/15/1980,7.0,Iowa,-22.0,Ohio State,41.0
+2483,,09/12/1981,10.0,Iowa,-16.0,Nebraska,7.0
+2642,,09/26/1981,20.0,Iowa,-10.0,U.C.L.A.,7.0
+2741,,10/10/1981,42.0,Iowa,13.5,Indiana,28.0
+2881,,10/24/1981,10.0,Iowa,12.0,Minnesota,12.0
+3031,,11/07/1981,33.0,Iowa,3.0,Purdue,7.0
+3142,,11/21/1981,36.0,Iowa,7.0,Michigan State,7.0
+3305,,09/18/1982,7.0,Iowa,-1.0,Iowa State,19.0
+3437,,10/02/1982,45.0,Iowa,24.0,Northwestern,7.0
+3541,,10/16/1982,7.0,Iowa,-7.0,Michigan,29.0
+3645,,10/30/1982,14.0,Iowa,-2.0,Illinois,13.0
+3796,,11/13/1982,28.0,Iowa,3.0,Wisconsin,14.0
+4062,,09/24/1983,20.0,Iowa,-3.0,Ohio State,14.0
+4179,,10/08/1983,61.0,Iowa,34.0,Northwestern,21.0
+4240,,10/15/1983,31.0,Iowa,17.5,Purdue,14.0
+4328,,10/29/1983,49.0,Iowa,23.0,Indiana,3.0
+4502,,11/19/1983,61.0,Iowa,34.0,Minnesota,10.0
+4592,,09/08/1984,59.0,Iowa,24.0,Iowa State,21.0
+4663,,09/15/1984,17.0,Iowa,7.0,Penn State,20.0
+4758,,09/29/1984,21.0,Iowa,5.0,Illinois,16.0
+4932,,10/20/1984,26.0,Iowa,8.0,Michigan,0.0
+5069,,11/03/1984,10.0,Iowa,12.5,Wisconsin,10.0
+5090,,11/10/1984,16.0,Iowa,12.0,Michigan State,17.0
+5274,,09/14/1985,58.0,Iowa, ,Drake,0.0
+5351,,09/21/1985,48.0,Iowa, ,Northern Illinois,20.0
+5452,,10/05/1985,35.0,Iowa,16.0,Michigan State,31.0
+5558,,10/19/1985,12.0,Iowa,-3.0,Michigan,10.0
+5715,,11/09/1985,59.0,Iowa,7.0,Illinois,0.0
+5822,,11/23/1985,31.0,Iowa,18.0,Minnesota,9.0
+5927,,09/13/1986,43.0,Iowa,16.5,Iowa State,7.0
+5998,,09/20/1986,57.0,Iowa, ,Northern Illinois,3.0
+6063,,09/27/1986,69.0,Iowa,32.0,UTEP,7.0
+6172,,10/11/1986,17.0,Iowa,24.0,Wisconsin,6.0
+6255,,10/25/1986,27.0,Iowa,32.0,Northwestern,20.0
+6301,,11/01/1986,10.0,Iowa,3.5,Ohio State,31.0
+6405,,11/15/1986,42.0,Iowa,24.5,Purdue,14.0
+6648,,09/26/1987,38.0,Iowa,42.0,Kansas State,13.0
+6699,,10/03/1987,14.0,Iowa,9.8,Michigan State,19.0
+6867,,10/24/1987,38.0,Iowa,17.0,Purdue,14.0
+6894,,10/31/1987,29.0,Iowa,6.5,Indiana,21.0
+7055,,11/21/1987,34.0,Iowa,15.5,Minnesota,20.0
+7203,,09/17/1988,21.0,Iowa,5.5,Colorado,24.0
+7256,,09/24/1988,10.0,Iowa,24.0,Iowa State,3.0
+7394,,10/08/1988,31.0,Iowa,22.0,Wisconsin,6.0
+7423,,10/15/1988,17.0,Iowa,-6.5,Michigan,17.0
+7574,,11/05/1988,35.0,Iowa,29.0,Northwestern,10.0
+7624,,11/12/1988,24.0,Iowa,10.5,Ohio State,24.0
+7829,,09/16/1989,6.0,Iowa,3.0,Oregon,44.0
+7939,,09/30/1989,30.0,Iowa,9.0,Tulsa,22.0
+7964,,10/07/1989,14.0,Iowa,-5.0,Michigan State,17.0
+8065,,10/21/1989,12.0,Iowa,-11.0,Michigan,26.0
+8163,,11/04/1989,7.0,Iowa,-4.0,Illinois,31.0
+8309,,11/25/1989,7.0,Iowa,10.5,Minnesota,43.0
+8424,,09/15/1990,63.0,Iowa,37.0,Cincinnati,10.0
+8484,,09/22/1990,45.0,Iowa,14.0,Iowa State,35.0
+8671,,10/13/1990,30.0,Iowa,19.0,Wisconsin,10.0
+8754,,10/27/1990,56.0,Iowa,23.5,Northwestern,14.0
+8853,,11/10/1990,26.0,Iowa,5.5,Ohio State,27.0
+8913,,11/17/1990,38.0,Iowa,26.0,Purdue,9.0
+8998,,09/07/1991,53.0,Iowa,15.0,Hawaii,10.0
+9161,,09/28/1991,58.0,Iowa, ,Northern Illinois,7.0
+9204,,10/05/1991,24.0,Iowa,0.0,Michigan,43.0
+9293,,10/19/1991,24.0,Iowa,6.0,Illinois,21.0
+9447,,11/09/1991,38.0,Iowa,5.0,Indiana,21.0
+9545,,11/23/1991,23.0,Iowa,26.0,Minnesota,8.0
+9647,,09/12/1992,21.0,Iowa,16.0,Iowa State,7.0
+9869,,10/10/1992,23.0,Iowa,9.0,Wisconsin,22.0
+9953,,10/24/1992,16.0,Iowa,12.5,Purdue,27.0
+9996,,10/31/1992,15.0,Iowa,-3.0,Ohio State,38.0
+10086,,11/14/1992,56.0,Iowa,14.0,Northwestern,14.0
+10209,,09/04/1993,26.0,Iowa,11.5,Tulsa,25.0
+10304,,09/18/1993,0.0,Iowa,-5.0,Penn State,31.0
+10473,,10/16/1993,3.0,Iowa,1.0,Illinois,49.0
+10580,,10/30/1993,26.0,Iowa,6.0,Purdue,17.0
+10621,,11/06/1993,54.0,Iowa, ,Northern Illinois,20.0
+10708,,11/20/1993,21.0,Iowa,6.5,Minnesota,3.0
+10769,,09/03/1994,52.0,Iowa, ,Central Michigan,21.0
+10824,,09/10/1994,37.0,Iowa,10.5,Iowa State,9.0
+10979,,10/01/1994,14.0,Iowa,-18.5,Michigan,29.0
+11022,,10/08/1994,20.0,Iowa,3.5,Indiana,27.0
+11122,,10/22/1994,19.0,Iowa,-11.0,Michigan State,14.0
+11279,,11/12/1994,49.0,Iowa,5.5,Northwestern,13.0
+11455,,09/09/1995,34.0,Iowa, ,Northern Iowa,13.0
+11607,,09/30/1995,59.0,Iowa, ,New Mexico State,21.0
+11692,,10/14/1995,22.0,Iowa,13.0,Indiana,13.0
+11753,,10/21/1995,27.0,Iowa,-4.5,Penn State,41.0
+11840,,11/04/1995,7.0,Iowa,4.0,Illinois,26.0
+11996,,11/25/1995,45.0,Iowa,10.0,Minnesota,3.0
+12059,,09/07/1996,21.0,Iowa,6.5,Arizona,20.0
+12128,,09/14/1996,38.0,Iowa,17.5,Iowa State,13.0
+12271,,10/05/1996,37.0,Iowa,8.0,Michigan State,30.0
+12423,,10/26/1996,26.0,Iowa,-14.5,Ohio State,38.0
+12532,,11/09/1996,13.0,Iowa,6.0,Northwestern,40.0
+12583,,11/16/1996,31.0,Iowa,2.5,Wisconsin,0.0
+12709,,09/06/1997,66.0,Iowa, ,Northern Iowa,0.0
+12764,,09/13/1997,54.0,Iowa,22.0,Tulsa,16.0
+12858,,09/27/1997,38.0,Iowa,28.0,Illinois,10.0
+13064,,10/25/1997,62.0,Iowa,28.0,Indiana,0.0
+13129,,11/01/1997,35.0,Iowa,11.0,Purdue,17.0
+13274,,11/22/1997,31.0,Iowa,20.0,Minnesota,0.0
+13327,,09/05/1998,38.0,Iowa,34.0,Central Michigan,0.0
+13386,,09/12/1998,9.0,Iowa,28.0,Iowa State,27.0
+13548,,10/03/1998,9.0,Iowa,-9.0,Michigan,12.0
+13598,,10/10/1998,26.0,Iowa,10.0,Northwestern,24.0
+13703,,10/24/1998,0.0,Iowa,-6.5,Wisconsin,31.0
+13861,,11/14/1998,14.0,Iowa,-25.0,Ohio State,45.0
+13975,,09/04/1999,7.0,Iowa,-23.5,Nebraska,42.0
+14111,,09/18/1999,24.0,Iowa,14.5,Northern Illinois,0.0
+14262,,10/09/1999,7.0,Iowa,-28.0,Penn State,31.0
+14361,,10/23/1999,31.0,Iowa,-2.5,Indiana,38.0
+14464,,11/06/1999,24.0,Iowa,-6.5,Illinois,40.0
+14554,,11/20/1999,21.0,Iowa,-20.0,Minnesota,25.0
+14719,,09/09/2000,21.0,Iowa,7.5,Western Michigan,27.0
+14749,,09/16/2000,14.0,Iowa,-2.5,Iowa State,24.0
+14914,,10/07/2000,21.0,Iowa,-9.5,Michigan State,16.0
+15032,,10/21/2000,10.0,Iowa,-18.0,Ohio State,38.0
+15067,,10/28/2000,7.0,Iowa,-16.0,Wisconsin,13.0
+15164,,11/11/2000,27.0,Iowa,-12.5,Northwestern,17.0
+15321,,09/01/2001,51.0,Iowa,27.0,Kent State,0.0
+15370,,09/08/2001,44.0,Iowa,14.0,Miami-Ohio,19.0
+15487,,09/29/2001,24.0,Iowa,10.0,Penn State,18.0
+15658,,10/20/2001,42.0,Iowa,9.5,Indiana,28.0
+15700,,10/27/2001,26.0,Iowa,-6.0,Michigan,32.0
+15859,,11/17/2001,42.0,Iowa,12.0,Minnesota,24.0
+15999,,08/31/2002,57.0,Iowa,21.0,Akron,21.0
+16131,,09/14/2002,31.0,Iowa,2.0,Iowa State,36.0
+16185,,09/21/2002,48.0,Iowa,21.5,Utah State,7.0
+16281,,10/05/2002,31.0,Iowa,8.5,Purdue,28.0
+16332,,10/12/2002,44.0,Iowa,4.5,Michigan State,16.0
+16494,,11/02/2002,20.0,Iowa,9.5,Wisconsin,3.0
+16540,,11/09/2002,62.0,Iowa,29.5,Northwestern,10.0
+16741,,08/30/2003,21.0,Iowa,9.0,Miami-Ohio,3.0
+16792,,09/06/2003,56.0,Iowa,34.0,Buffalo,7.0
+16956,,09/20/2003,21.0,Iowa,6.0,Arizona State,2.0
+17036,,10/04/2003,30.0,Iowa,-3.5,Michigan,27.0
+17189,,10/25/2003,26.0,Iowa,10.5,Penn State,14.0
+17233,,11/01/2003,41.0,Iowa,27.0,Illinois,10.0
+17334,,11/15/2003,40.0,Iowa,5.5,Minnesota,22.0
+17479,,09/04/2004,39.0,Iowa,31.0,Kent State,7.0
+17537,,09/11/2004,17.0,Iowa,25.0,Iowa State,10.0
+17704,,10/02/2004,38.0,Iowa,7.5,Michigan State,16.0
+17810,,10/16/2004,33.0,Iowa,2.0,Ohio State,7.0
+17970,,11/06/2004,23.0,Iowa,2.0,Purdue,21.0
+18076,,11/20/2004,30.0,Iowa,3.0,Wisconsin,7.0
+18171,,09/03/2005,56.0,Iowa,38.5,Ball State,0.0
+18323,,09/17/2005,45.0,Iowa, ,Northern Iowa,21.0
+18384,,10/01/2005,35.0,Iowa,18.0,Illinois,7.0
+18500,,10/15/2005,38.0,Iowa,16.0,Indiana,21.0
+18549,,10/22/2005,20.0,Iowa,2.5,Michigan,23.0
+18757,,11/19/2005,52.0,Iowa,4.0,Minnesota,28.0
+18902,,09/02/2006,41.0,Iowa, ,Montana,7.0
+18985,,09/16/2006,27.0,Iowa,13.0,Iowa State,17.0
+19138,,09/30/2006,17.0,Iowa,-7.0,Ohio State,38.0
+19163,,10/07/2006,47.0,Iowa,10.0,Purdue,17.0
+19326,,10/28/2006,24.0,Iowa,14.5,Northern Illinois,14.0
+19382,,11/04/2006,7.0,Iowa,20.5,Northwestern,21.0
+19443,,11/11/2006,21.0,Iowa,-1.0,Wisconsin,24.0
+19713,,09/08/2007,35.0,Iowa,24.0,Syracuse,0.0
+19870,,09/29/2007,20.0,Iowa,10.0,Indiana,38.0
+20005,,10/13/2007,10.0,Iowa,-4.0,Illinois,6.0
+20118,,10/27/2007,34.0,Iowa,-3.0,Michigan State,27.0
+20226,,11/10/2007,21.0,Iowa,14.5,Minnesota,16.0
+20259,,11/17/2007,19.0,Iowa,14.0,Western Michigan,28.0
+20420,,08/30/2008,46.0,Iowa, ,Maine,3.0
+20483,,09/06/2008,42.0,Iowa,27.0,Florida Intl,0.0
+20531,,09/13/2008,17.0,Iowa,13.5,Iowa State,5.0
+20630,,09/27/2008,17.0,Iowa,-8.5,Northwestern,22.0
+20790,,10/18/2008,38.0,Iowa,5.0,Wisconsin,16.0
+20961,,11/08/2008,24.0,Iowa,-8.0,Penn State,23.0
+20994,,11/15/2008,22.0,Iowa,17.0,Purdue,17.0
+21197,,09/05/2009,17.0,Iowa, ,Northern Iowa,16.0
+21295,,09/19/2009,27.0,Iowa,4.0,Arizona,17.0
+21454,,10/03/2009,24.0,Iowa,21.0,Arkansas State,21.0
+21501,,10/10/2009,30.0,Iowa,8.0,Michigan,28.0
+21633,,10/31/2009,42.0,Iowa,17.5,Indiana,24.0
+21688,,11/07/2009,10.0,Iowa,14.0,Northwestern,17.0
+21806,,11/21/2009,12.0,Iowa,12.5,Minnesota,0.0
+21965,,09/04/2010,37.0,Iowa, ,Eastern Illinois,7.0
+22007,,09/11/2010,35.0,Iowa,13.5,Iowa State,7.0
+22127,,09/25/2010,45.0,Iowa,28.0,Ball State,0.0
+22217,,10/02/2010,24.0,Iowa,7.5,Penn State,3.0
+22352,,10/23/2010,30.0,Iowa,6.5,Wisconsin,31.0
+22401,,10/30/2010,37.0,Iowa,6.5,Michigan State,6.0
+22576,,11/20/2010,17.0,Iowa,-3.0,Ohio State,20.0
+22735,,09/03/2011,34.0,Iowa, ,Tennessee Tech,7.0
+22837,,09/17/2011,31.0,Iowa,3.0,Pittsburgh,27.0
+22939,,09/24/2011,45.0,Iowa,17.0,UL-Monroe,17.0
+23106,,10/15/2011,41.0,Iowa,6.0,Northwestern,31.0
+23118,,10/22/2011,45.0,Iowa,23.0,Indiana,24.0
+23243,,11/05/2011,24.0,Iowa,-4.0,Michigan,16.0
+23303,,11/12/2011,21.0,Iowa,-3.0,Michigan State,37.0
+23564,,09/08/2012,6.0,Iowa,3.5,Iowa State,9.0
+23670,,09/15/2012,27.0,Iowa, ,Northern Iowa,16.0
+23691,,09/22/2012,31.0,Iowa,14.5,Central Michigan,32.0
+23747,,09/29/2012,31.0,Iowa,6.0,Minnesota,13.0
+23953,,10/20/2012,14.0,Iowa,1.0,Penn State,38.0
+24089,,11/10/2012,24.0,Iowa,5.0,Purdue,27.0
+24196,,11/23/2012,7.0,Iowa,-15.0,Nebraska,13.0
+24301,,08/31/2013,27.0,Iowa,3.0,Northern Illinois,30.0
+24393,,09/07/2013,28.0,Iowa, ,Missouri State,14.0
+24485,,09/21/2013,59.0,Iowa,16.0,Western Michigan,3.0
+24593,,10/05/2013,14.0,Iowa,2.0,Michigan State,26.0
+24774,,10/26/2013,17.0,Iowa,3.5,Northwestern,10.0
+24824,,11/02/2013,9.0,Iowa,-9.0,Wisconsin,28.0
+24980,,11/23/2013,24.0,Iowa,5.5,Michigan,21.0
+25161,,08/30/2014,31.0,Iowa,,Northern Iowa,23.0
+25174,,09/06/2014,17.0,Iowa,17.5,Ball State,13.0
+25259,,09/13/2014,,Iowa,13.5,Iowa State,
+25485,,10/11/2014,,Iowa,,Indiana,
+25639,,11/01/2014,,Iowa,,Northwestern,
+25791,,11/22/2014,,Iowa,,Wisconsin,
+25856,,11/29/2014,,Iowa,,Nebraska,
+59,Rose Bowl,01/01/1982,28,Washington,-3.0,Iowa,0
+71,Peach Bowl,12/31/1982,22,Tennessee,1.0,Iowa,28
 85,Gator Bowl,12/30/1983,6,Iowa,-3.5,Florida,14
+99,Freedom Bowl,12/26/1984,17,Texas,-1.5,Iowa,55
+125,Rose Bowl,01/01/1986,45,U.C.L.A.,-3.0,Iowa,28
+137,Holiday Bowl,12/30/1986,38,San Diego State,-7.5,Iowa,39
+154,Holiday Bowl,12/30/1987,19,Wyoming,-4.0,Iowa,20
+173,Peach Bowl,12/31/1988,28,No Carolina State,1.0,Iowa,23
+215,Rose Bowl,01/01/1991,46,Washington,10.0,Iowa,34
 225,Holiday Bowl,12/30/1991,13,Iowa,4.0,Brigham Young,13
+263,Alamo Bowl,12/31/1993,37,California,9.0,Iowa,3
 298,Sun Bowl,12/29/1995,38,Iowa,-5.5,Washington,18
+316,Alamo Bowl,12/29/1996,0,Texas Tech,4.0,Iowa,27
+337,Sun Bowl,12/31/1997,17,Arizona State,-2.0,Iowa,7
+428,Alamo Bowl,12/29/2001,16,Texas Tech,1.0,Iowa,19
+469,Orange Bowl,01/02/2003,38,Southern Cal,4.5,Iowa,17
 489,Outback Bowl,01/01/2004,37,Iowa,-4.0,Florida,17
+522,Capital One Bowl,01/01/2005,25,Louisiana State,6.0,Iowa,30
+548,Outback Bowl,01/02/2006,31,Florida,1.5,Iowa,24
+573,Alamo Bowl,12/30/2006,26,Texas,9.0,Iowa,24
+640,Outback Bowl,01/01/2009,10,South Carolina,-3.5,Iowa,31
+683,,01/05/2010,14,Georgia Tech,5.5,Iowa,24
 696,,12/28/2010,27,Iowa,-3.0,Missouri,24
+738,,12/30/2011,31,Oklahoma,14.0,Iowa,14
+817,,01/01/2014,21,Louisiana State,7.5,Iowa,14

@@ -1,0 +1,132 @@
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debc2" }, "name" : "TRAFFIC STOP", "index" : 0.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debc3" }, "name" : "VAGRANT/TRANSIENT", "index" : 1.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debc4" }, "name" : "DIST/DOMESTIC", "index" : 2.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debc5" }, "name" : "OPEN DOOR/WINDOW", "index" : 3.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debc6" }, "name" : "TR/PARKING", "index" : 4.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debc7" }, "name" : "MEDICAL RESPONSE LAW", "index" : 5.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debc8" }, "name" : "ESCORT/RELAY", "index" : 6.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debc9" }, "name" : "FIRE RESPONSE LAW", "index" : 7.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debca" }, "name" : "BUSINESS CHECK OPEN", "index" : 8.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debcb" }, "name" : "OUT FOR INVEST/FOLLOW UP", "index" : 9.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debcc" }, "name" : "HARASSMENT/OBSCENE PHONE", "index" : 10.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debcd" }, "name" : "SCHOOL VISIT", "index" : 11.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debce" }, "name" : "SUSPICIOUS/ACT/PERS/VEH", "index" : 12.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debcf" }, "name" : "PUBLIC ASSIST", "index" : 13.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd0" }, "name" : "TR/RECKLESS DRIVER", "index" : 14.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd1" }, "name" : "ALARM/BURGLARY", "index" : 15.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd2" }, "name" : "THEFT/SHOPLIFTING", "index" : 16.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd3" }, "name" : "ADMIN/REPORT WRITING", "index" : 17.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd4" }, "name" : "TR/MOTORIST ASSIST", "index" : 18.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd5" }, "name" : "SUICIDE/LAW", "index" : 19.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd6" }, "name" : "E1 MED GEN CODE 3", "index" : 20.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd7" }, "name" : "SEX/RAPE", "index" : 21.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd8" }, "name" : "PROPERTY/FOUND", "index" : 22.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debd9" }, "name" : "OUT WITH SUBJ", "index" : 23.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debda" }, "name" : "WELFARE CHECK", "index" : 24.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debdb" }, "name" : "DIST/FIGHT IN PROGRESS", "index" : 25.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debdc" }, "name" : "THEFT", "index" : 26.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debdd" }, "name" : "PROPERTY/LOST", "index" : 27.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debde" }, "name" : "EXTRA PATROL REQUEST", "index" : 28.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debdf" }, "name" : "MEDICAL EXAMINER", "index" : 29.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe0" }, "name" : "PHONE REQUEST", "index" : 30.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe1" }, "name" : "DIST/NOISE GENERAL", "index" : 31.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe2" }, "name" : "DIST/LOUD PARTY", "index" : 32.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe3" }, "name" : "NARCOTICS", "index" : 33.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe4" }, "name" : "TR/OWI", "index" : 34.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe5" }, "name" : "ASSAULT", "index" : 35.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe6" }, "name" : "ASSIST OTHER AGENCY", "index" : 36.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe7" }, "name" : "ANIMAL/K9 OTHER THAN TRAINING", "index" : 37.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe8" }, "name" : "BAR CHECK", "index" : 38.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debe9" }, "name" : "911 HANGUP", "index" : 39.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debea" }, "name" : "FOOT PATROL", "index" : 40.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debeb" }, "name" : "ANIMAL/CALL GENERAL", "index" : 41.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debec" }, "name" : "JUV/GENERAL", "index" : 42.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debed" }, "name" : "PROWLER", "index" : 43.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debee" }, "name" : "MVA/PROPERTY DAMAGE ACCIDENT", "index" : 44.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debef" }, "name" : "PAPER SERVICE/WARRANT", "index" : 45.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf0" }, "name" : "PROPERTY/RECOVER STOLEN", "index" : 46.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf1" }, "name" : "ANIMAL/CARCASS", "index" : 47.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf2" }, "name" : "DIST/CIVIL DISPUTE", "index" : 48.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf3" }, "name" : "MVA/UNKNOWN INJURY", "index" : 49.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf4" }, "name" : "CRIMINAL MISC/VANDALISM", "index" : 50.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf5" }, "name" : "LITTERING/ILLEGAL DUMPING", "index" : 51.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf6" }, "name" : "COURT", "index" : 52.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf7" }, "name" : "PUBLIC EDUCATION", "index" : 53.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf8" }, "name" : "FRAUD/FORGERY", "index" : 54.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debf9" }, "name" : "UNKNOWN PROBLEM", "index" : 55.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debfa" }, "name" : "THEFT/MOTOR VEHICLE", "index" : 56.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debfb" }, "name" : "TR/TRAFFIC ENFORCEMENT", "index" : 57.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debfc" }, "name" : "ANIMAL/FOUND", "index" : 58.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debfd" }, "name" : "BURGLARY/RESIDENTIAL", "index" : 59.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debfe" }, "name" : "THREATS", "index" : 60.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195debff" }, "name" : "TRESPASS", "index" : 61.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec00" }, "name" : "MVA/HIT AND RUN PD", "index" : 62.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec01" }, "name" : "INFO/ALL OTHER INFO", "index" : 63.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec02" }, "name" : "INTOXICATED PEDESTRIAN", "index" : 64.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec03" }, "name" : "SKATEBOARD/BIKE ON PLAZA", "index" : 65.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec04" }, "name" : "TR/ROAD HAZARD", "index" : 66.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec05" }, "name" : "MVA/PERSONAL INJURY ACCIDENT", "index" : 67.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec06" }, "name" : "SPECIAL ASSIGNMENT", "index" : 68.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec07" }, "name" : "TR/SCHOOL PATROL", "index" : 69.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec08" }, "name" : "ANIMAL/LOST", "index" : 70.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec09" }, "name" : "ATTEMPT TO LOCATE", "index" : 71.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec0a" }, "name" : "TR/SCHOOL BUS VIOLATION", "index" : 72.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec0b" }, "name" : "ALARM/PANIC/HOLDUP", "index" : 73.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec0c" }, "name" : "BUSINESS CHECK CLOSED", "index" : 74.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec0d" }, "name" : "MISSING/JUVENILE", "index" : 75.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec0e" }, "name" : "MENTAL IMPAIRMENT", "index" : 76.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec0f" }, "name" : "FRAUD/IDENTITY THEFT", "index" : 77.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec10" }, "name" : "TEST-Law", "index" : 78.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec11" }, "name" : "ANIMAL/K9 TRAINING", "index" : 79.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec12" }, "name" : "TR/WORK SCHOOL CROSSING", "index" : 80.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec13" }, "name" : "DIST/FIREWORKS", "index" : 81.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec14" }, "name" : "TRAINING", "index" : 82.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec15" }, "name" : "WEAPONS OFFENSE", "index" : 83.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec16" }, "name" : "33 Traffic", "index" : 84.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec17" }, "name" : "SOLICITOR", "index" : 85.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec18" }, "name" : "COMMUNITY POLICING", "index" : 86.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec19" }, "name" : "BURGLARY/VEHICLE", "index" : 87.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec1a" }, "name" : "WALKIN", "index" : 88.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec1b" }, "name" : "TR/TRAFFIC CONTROL", "index" : 89.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec1c" }, "name" : "VEHICLE UNLOCK", "index" : 90.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec1d" }, "name" : "MVA/DEER/PROPERTY", "index" : 91.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec1e" }, "name" : "F1 EMS", "index" : 92.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec1f" }, "name" : "ANIMAL/NOISE", "index" : 93.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec20" }, "name" : "ROBBERY/ARMED/GUN", "index" : 94.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec21" }, "name" : "COUNTERFEITING", "index" : 95.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec22" }, "name" : "FRAUD/BAD CHECKS", "index" : 96.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec23" }, "name" : "Tr/parking", "index" : 97.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec24" }, "name" : "MVA/HIT AND RUN PI", "index" : 98.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec25" }, "name" : "ANIMAL/NEGLECT", "index" : 99.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec26" }, "name" : "BURGLARY/BUSINESS", "index" : 100.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec27" }, "name" : "CHILD NEGLECT/ABUSE", "index" : 101.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec28" }, "name" : "CONTROLLED BURN INFO", "index" : 102.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec29" }, "name" : "DEATH INVESTIGATION DOA", "index" : 103.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec2a" }, "name" : "PAPER SERVICE/CIVIL", "index" : 104.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec2b" }, "name" : "MISSING/ADULT", "index" : 105.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec2c" }, "name" : "THEFT/RESIDENCE", "index" : 106.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec2d" }, "name" : "TR/RADAR", "index" : 107.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec2e" }, "name" : "JAIL/TRANSPORT PRISONER", "index" : 108.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec2f" }, "name" : "THEFT/VEHICLE", "index" : 109.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec30" }, "name" : "ROBBERY/STRONG ARM", "index" : 110.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec31" }, "name" : "JUV/PARTY", "index" : 111.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec32" }, "name" : "TEST-EMS", "index" : 112.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec33" }, "name" : "THEFT/GAS DRIVE OFF", "index" : 113.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec34" }, "name" : "VIOLATION NO CONTACT ORDER", "index" : 114.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec35" }, "name" : "SEX/CHILD ABUSE", "index" : 115.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec36" }, "name" : "SUPERVISOR RESPONSE", "index" : 116.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec37" }, "name" : "ALARM/VEHICLE", "index" : 117.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec38" }, "name" : "F1 OTHER FIRE", "index" : 118.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec39" }, "name" : "UI ASSIST FACILITIES MAINT", "index" : 119.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec3a" }, "name" : "ANIMAL/LIVESTOCK OUT", "index" : 120.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec3b" }, "name" : "INFO/DOC", "index" : 121.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec3c" }, "name" : "SEX/EXCEPT RAPE", "index" : 122.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec3d" }, "name" : "ALCOHOL COMPLIANCE", "index" : 123.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec3e" }, "name" : "RIVER ASSIST", "index" : 124.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec3f" }, "name" : "ANIMAL/BITE", "index" : 125.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec40" }, "name" : "SEX OFFENDER/CHECK ADR", "index" : 126.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec41" }, "name" : "SNOWMOBILE COMPLAINTS", "index" : 127.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec42" }, "name" : "JUV/PAULA", "index" : 128.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec43" }, "name" : "TOBACCO COMPLIANCE", "index" : 129.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec44" }, "name" : "UI FIRE ALARM TROUBLE", "index" : 130.0 }
+{ "_id" : { "$oid" : "516fb523a8fe7dd8195dec45" }, "name" : "TR/SPEED TRAILER", "index" : 131.0 }
